@@ -5,7 +5,7 @@ I'm a 6th semester Computer Engineering student passionate about Web Development
 - 🔭 I’m currently working on a personal portfolio website.
 - 🌱 I’m learning fullstack development with JavaScript (MERN Stack).
 - 💡 Interests: Frontend, UI/UX, and embedded systems.
-- 📫 How to reach me: [LinkedIn](#), [Email](mailto:your@email.com)
+- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/nvlafif/), [Email](novalafif51@gmail.com)
 
 ### 🚀 Tech Stack
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=fff)
@@ -15,4 +15,4 @@ I'm a 6th semester Computer Engineering student passionate about Web Development
 ![Tailwind CSS](https://img.shields.io/badge/-Tailwind_CSS-38B2AC?logo=tailwind-css)
 
 ### 📊 GitHub Stats
-![YourName's GitHub stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)
+![Naufal's GitHub stats](https://github-readme-stats.vercel.app/api?username=nvlafif&show_icons=true&theme=radical)
