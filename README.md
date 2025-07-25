@@ -2,10 +2,10 @@
 
 I'm a 6th semester Computer Engineering student passionate about Web Development (React, Tailwind, JavaScript) and IoT systems.
 
-- 🔭 I’m currently working on a personal portfolio website.
-- 🌱 I’m learning fullstack development with JavaScript (MERN Stack).
-- 💡 Interests: Frontend, UI/UX, and embedded systems.
-- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/nvlafif/), [Email](https://mail.google.com/mail/?view=cm&fs=1&to=novalafif51@gmail.com) 
+- 🔭 Aspiring Software Engineer  
+- 🌱 Currently learning fullstack development with JavaScript (MERN Stack)  
+- 💡 Interests: Fullstack Development, UI/UX, and IoT  
+- 📫 Reach me on [LinkedIn](https://www.linkedin.com/in/nvlafif/) or [Email](mailto:novalafif51@gmail.com)
 
 ### 🚀 Tech Stack
 <p align="left">
