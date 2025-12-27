@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Naufal!
 
-I'm a 6th semester Computer Engineering student passionate about Web Development (React, Tailwind, JavaScript) and IoT systems.
+I'm a Computer Engineering student passionate about Web Development (React, Tailwind, JavaScript) and IoT systems.
 
 - 🔭 Aspiring Software Engineer  
 - 🌱 Currently learning fullstack development with JavaScript (MERN Stack)  
