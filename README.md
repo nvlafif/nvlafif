@@ -1,10 +1,9 @@
 # 👋 Hi, I'm Naufal!
 
-I'm a Computer Engineering student passionate about Web Development (React, Tailwind, JavaScript) and IoT systems.
+I'm a Computer Engineering student with a strong interest in Software Engineering, Industrial IoT, and Industrial Automation.
+🔭 Aspiring Software Engineer
+🌱 Currently developing skills in software development, Industrial IoT systems, and industrial automation
 
-- 🔭 Aspiring Software Engineer  
-- 🌱 Currently learning fullstack development with JavaScript (MERN Stack)  
-- 💡 Interests: Fullstack Development, UI/UX, and IoT  
 - 📫 Reach me on [LinkedIn](https://www.linkedin.com/in/nvlafif/) or [Email](mailto:novalafif51@gmail.com)
 
 ### 🚀 Tech Stack
