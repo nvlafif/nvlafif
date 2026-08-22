@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Naufal!
 
-I'm a Computer Engineering student with a strong interest in Software Engineering, Industrial IoT, and Machine Learning. Aspiring Software Engineer, currently developing skills in software development, Industrial IoT systems, and Machine Learning.
+I'm a Computer Engineering Graduate with a strong interest in Software Engineering, Industrial IoT, Machine Learning, and Network.
 
 - 📫 Reach me on [LinkedIn](https://www.linkedin.com/in/nvlafif/) or [Email](mailto:novalafif51@gmail.com)
 
