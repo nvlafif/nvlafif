@@ -2,8 +2,6 @@
 
 I'm a Computer Engineering Graduate with a strong interest in Software Engineering, Enterprise Application Development, Industrial IoT, and Machine Learning.
 
-- Reach me on [LinkedIn](https://www.linkedin.com/in/nvlafif/) or [Email](mailto:novalafif51@gmail.com)
-
 <p align="left">
   <a href="https://www.linkedin.com/in/nvlafif/" target="_blank">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg" alt="LinkedIn" height="38" />
