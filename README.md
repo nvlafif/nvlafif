@@ -4,6 +4,15 @@ I'm a Computer Engineering Graduate with a strong interest in Software Engineeri
 
 - Reach me on [LinkedIn](https://www.linkedin.com/in/nvlafif/) or [Email](mailto:novalafif51@gmail.com)
 
+<p align="left">
+  <a href="https://www.linkedin.com/in/nvlafif/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="mailto:novalafif51@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
+  </a>
+</p>
+
 ### Tech Stack
 <p align="left">
   <img src="https://cdn.simpleicons.org/springboot" alt="Spring Boot" width="50" height="50"/>
