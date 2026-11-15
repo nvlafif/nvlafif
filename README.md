@@ -11,6 +11,8 @@ I'm a Computer Engineering Graduate with a strong interest in Software Engineeri
   </a>
 </p>
 
+> ✉️ **Contact:** Open in your default mail app via the icon above, compose directly in **[Gmail Web](https://mail.google.com/mail/?view=cm&fs=1&to=novalafif51@gmail.com)**, or copy `novalafif51@gmail.com`.
+
 ### Tech Stack
 <p align="left">
   <img src="https://cdn.simpleicons.org/springboot" alt="Spring Boot" width="50" height="50"/>
