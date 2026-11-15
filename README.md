@@ -23,4 +23,4 @@ I'm a Computer Engineering Graduate with a strong interest in Software Engineeri
 </p>
 
 ### GitHub Stats
-![Naufal's GitHub stats](https://github-readme-stats.vercel.app/api?username=nvlafif&show_icons=true&theme=radical)
+[![Naufal's GitHub Streak](https://streak-stats.demolab.com?user=nvlafif&theme=radical)](https://git.io/streak-stats)
