@@ -6,10 +6,10 @@ I'm a Computer Engineering Graduate with a strong interest in Software Engineeri
 
 <p align="left">
   <a href="https://www.linkedin.com/in/nvlafif/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg" alt="LinkedIn" height="38" />
+  </a>&nbsp;&nbsp;
   <a href="mailto:novalafif51@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
+    <img src="https://cdn.jsdelivr.net/gh/edent/SuperTinyIcons/images/svg/gmail.svg" alt="Gmail" height="38" />
   </a>
 </p>
 
