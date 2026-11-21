@@ -12,7 +12,7 @@ I'm a Computer Engineering Graduate with a strong interest in Software Engineeri
 </p>
 
 ### GitHub Stats
-[![Naufal's GitHub Streak](https://streak-stats.demolab.com?user=nvlafif&theme=radical)](https://git.io/streak-stats)
+[![Naufal's GitHub Streak](https://streak-stats.demolab.com?user=nvlafif&theme=radical&v=2)](https://git.io/streak-stats)
 
 ### Contact Me
 <p align="left">
